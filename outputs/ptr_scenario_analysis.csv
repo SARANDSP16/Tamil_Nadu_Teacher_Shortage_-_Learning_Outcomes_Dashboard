@@ -1,0 +1,5 @@
+Scenario,Target_PTR,Projected_Enrollment_2030,Required_Teachers_2030,Current_Teachers_2025,Total_Deficit,Annual_Recruitment_Need,Budget_Estimate_Crores
+Conservative (PTR 35),35,13149556,375701,399272,-23571,-4714,-28284
+Moderate (PTR 30),30,13149556,438318,399272,39046,7809,46854
+Ambitious (PTR 25),25,13149556,525982,399272,126710,25342,152052
+Ideal (PTR 20),20,13149556,657477,399272,258205,51641,309846

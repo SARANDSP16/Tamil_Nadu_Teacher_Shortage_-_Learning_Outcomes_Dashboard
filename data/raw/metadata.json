@@ -1,0 +1,47 @@
+{
+  "slas_2025_learning_outcomes.csv": {
+    "description": "State Level Achievement Survey 2025 - District-wise learning outcomes",
+    "source": "Tamil Nadu State Planning Commission",
+    "year": 2025,
+    "classes_covered": [
+      3,
+      5,
+      8
+    ],
+    "subjects": [
+      "Tamil",
+      "English",
+      "Mathematics",
+      "Science",
+      "Social Science"
+    ],
+    "key_metrics": [
+      "Subject-wise scores",
+      "Class-wise averages",
+      "Overall district performance"
+    ]
+  },
+  "udise_plus_2024_25.csv": {
+    "description": "Unified District Information System for Education Plus 2024-25",
+    "source": "Ministry of Education, Government of India",
+    "year": 1999,
+    "key_metrics": [
+      "School count",
+      "Enrollment",
+      "Teacher count",
+      "PTR",
+      "Infrastructure"
+    ]
+  },
+  "demographic_data_2025.csv": {
+    "description": "Demographic data for Tamil Nadu districts",
+    "source": "Census 2011 (projected to 2025)",
+    "year": 2025,
+    "key_metrics": [
+      "Population",
+      "Literacy rate",
+      "School-age population",
+      "Urban-rural split"
+    ]
+  }
+}

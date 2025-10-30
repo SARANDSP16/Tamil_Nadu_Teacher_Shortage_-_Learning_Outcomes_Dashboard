@@ -1,0 +1,2 @@
+report_date,total_districts,total_schools,total_enrollment,total_teachers,state_avg_ptr,state_avg_learning_outcome,single_teacher_schools,teacher_deficit_ptr30,teacher_deficit_ptr25,districts_below_state_avg,districts_ptr_above_35,avg_infrastructure_score,priority_districts_count,correlation_ptr_learning,regression_r2
+2025-10-30,38,36503,12523387,399272,31.93342105263158,58.66578947368421,1421,18177,101666,21,12,70.89342105263158,0,-0.27688217377280616,0.2807171942598622
